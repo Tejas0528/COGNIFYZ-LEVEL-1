@@ -1,4 +1,4 @@
-Cognifyz Data Science Internship
+# Cognifyz Data Science Internship
 
 This repository contains my task-wise submissions for the Data Science Internship at Cognifyz Technologies.
 
